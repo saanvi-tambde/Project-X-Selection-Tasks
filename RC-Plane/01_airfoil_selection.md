@@ -17,3 +17,17 @@ Design two RC aircraft: **A**, optimized for maximum payload while maintaining s
 
 ### Submission expectations
 State assumptions, cite sources, and justify choices using engineering reasoning. Diagrams, calculations, and comparison tables are encouraged. AI tools may support research, but you must be able to defend your work.
+
+**A** MAXIMUM PAYLOAD WHILE MAINTAINING STABLE FLIGHT.
+For the given purpose the candidate airfoils are :
+
+1) CAMBERED AIRFOIL:
+A fixed curved profile that produces lift efficiently over its intended operating range. It is comparatively simple and is a useful baseline for a payload-carrying aircraft.
+
+2) HIGH-LIFT AIRFOIL:
+A wing with flaps and possibly leading-edge slats that increase lift when needed, particularly during take-off and landing. The increased lift generally comes with extra drag and mechanical complexity.
+
+3) EFFICIENT CAMBERED AIRFOIL- VARIABLE/MORPHING CAMBERED AIRFOIL:
+The wing changes its curvature to suit different flight conditions. It can use a more efficient shape in cruise and a higher-lift shape at low speeds, if properly designed and tested.
+
+
